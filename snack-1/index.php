@@ -80,7 +80,7 @@ $matches_array = [
     <!-- link to Font-Family and CSS Files -->
     <link rel="stylesheet" href="../css/style.css" />
     <!-- Document Title -->
-    <title>Document</title>
+    <title>Snack 1</title>
 </head>
 
 <body>
@@ -92,7 +92,7 @@ $matches_array = [
                 <?php echo $match['team_home']['name'] ?>
                 -
                 <?php echo $match['team_away']['name'] ?>
-                ||
+                |
                 <?php echo $match['team_home']['points'] ?>
                 -
                 <?php echo $match['team_away']['points'] ?>

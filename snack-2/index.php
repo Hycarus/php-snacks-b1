@@ -29,7 +29,7 @@ if (isset($_GET['eta'])) {
     <!-- link to Font-Family and CSS Files -->
     <link rel="stylesheet" href="../css/style.css" />
     <!-- Document Title -->
-    <title>Document</title>
+    <title>Snack 2</title>
 </head>
 
 <body>
